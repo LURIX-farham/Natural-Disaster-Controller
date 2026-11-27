@@ -338,7 +338,12 @@
     <div style="margin-top: 1.8rem; font-size: 0.9rem;">
       <i class="far fa-copyright"></i> Natural Disaster Manager – طراحی شده برای ایران مقاوم
     </div>
-   
+   <p>
+    ## Project Status
+
+This project is no longer actively maintained.
+It remains available for educational and reference purposes.
+   </p>
   </div>
 
 </div>
